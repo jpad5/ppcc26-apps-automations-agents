@@ -23,7 +23,7 @@ You will create one Business Skill and two agents:
    | Description | `Use this skill when a supplier delay, inventory shortage, or shipment risk may affect open Northwind customer orders.` |
 
 7. Open
-   [`../prompts/ppcc-order-disruption-triage.md`](../prompts/ppcc-order-disruption-triage.md).
+   [`./prompts/ppcc-order-disruption-triage.md`](./prompts/ppcc-order-disruption-triage.md).
 8. Copy from `# Order disruption triage` through the end of the file. Do not
    copy the YAML metadata above the heading.
 9. Paste the copied content into **Instructions**.
@@ -68,7 +68,7 @@ the skill and adding it to the solution are the only participant actions.
 7. Select **Create**.
 8. On **Overview**, find **Instructions** and select **Edit**.
 9. Open
-   [`../prompts/disruption-commander.md`](../prompts/disruption-commander.md).
+   [`./prompts/disruption-commander.md`](./prompts/disruption-commander.md).
 10. Copy the text below the heading into **Instructions**.
 11. Select **Save**.
 
@@ -173,7 +173,7 @@ operation off.
 7. Select **Create**.
 8. On **Overview**, edit **Instructions**.
 9. Open
-   [`../prompts/disruption-handoff.md`](../prompts/disruption-handoff.md).
+   [`./prompts/disruption-handoff.md`](./prompts/disruption-handoff.md).
 10. Copy the text below the heading into **Instructions**.
 11. Confirm the text includes:
    - `exactly once per autonomous trigger run`
