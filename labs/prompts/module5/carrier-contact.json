@@ -1,0 +1,9 @@
+{
+  "firstName": "Avery",
+  "lastName": "Morgan",
+  "companyName": "Northwind Traders",
+  "roleInCompany": "Fulfillment Coordinator",
+  "address": "1 Northwind Way, Seattle, WA 98101",
+  "email": "avery.morgan@example.com",
+  "phoneNumber": "206-555-0142"
+}

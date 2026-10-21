@@ -1,0 +1,19 @@
+Open Microsoft Edge and go to
+https://green-wave-0ce125203.7.azurestaticapps.net/.
+
+The page contains a form with seven fields whose positions change when the page
+loads. Do not rely on field position. Read each visible label and enter the
+matching input value: First Name, Last Name, Company Name, Role in Company,
+Address, Email, and Phone Number.
+
+If Microsoft Edge displays a Saved info popup, dismiss it before entering the
+next value. Confirm that each value appears under the correct label before
+continuing.
+
+After all seven fields are correct, select Submit once and verify that the page
+shows one successful submission. Do not browse elsewhere. Stop if the page
+requests sign-in, payment, external communication, or any action beyond this
+form.
+
+Return CARRIER_VERIFIED only when the page visibly confirms one submission.
+Return CARRIER_AMBIGUOUS for every other browser-started outcome.
